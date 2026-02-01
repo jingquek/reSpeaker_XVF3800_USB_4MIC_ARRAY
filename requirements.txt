@@ -1,0 +1,20 @@
+# ReSpeaker XVF3800 Diagnostic Application Requirements
+# Install with: pip install -r requirements.txt
+
+# Scientific computing and data visualization
+numpy>=1.21.0
+matplotlib>=3.5.0
+
+# Audio processing
+pyaudio>=0.2.11
+
+# Optional: For enhanced audio processing
+scipy>=1.7.0
+
+# Optional: For advanced visualization
+seaborn>=0.11.0
+
+# Development dependencies (optional)
+# pytest>=6.0.0
+# black>=21.0.0
+# flake8>=3.9.0

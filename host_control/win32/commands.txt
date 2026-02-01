@@ -1,0 +1,8 @@
+led_effect 1
+led_color 0xff0000
+led_speed 1
+led_brightness 255
+AUDIO_MGR_MIC_GAIN 120
+AUDIO_MGR_REF_GAIN 10.0
+PP_AGCGAIN 3.0
+PP_AGCMAXGAIN 80.0
